@@ -1,4 +1,4 @@
-.partner-section{
+/* .partner-section{
     min-height: 60vh;
     width: 100%;
     margin-top: 1rem;
@@ -36,9 +36,9 @@ h4{
     height: 15%;
     border-radius: 15px;
     /* animation: bounce 1s infinite; */
-}
 
-@keyframes bounce {
+
+/* @keyframes bounce {
 
     0%,
     20%,
@@ -55,9 +55,9 @@ h4{
     60% {
         transform: translateY(-10px);
     }
-}
+} */
 
-#gsp {
+/* #gsp {
           height: 20% !important;
     }
 #bee{
@@ -123,7 +123,7 @@ h4{
             width: 30%;
         
             /* height: 20% !important; */
-        }
+        /* }
     
         #bee {
             width: 45%;
@@ -150,9 +150,9 @@ h4{
             height: 34%;
             width: 50%;
             margin: 0;
-        }
+        } */
     
-        #xyz {
+        /* #xyz {
             height: 8%;
             width: 25%;
              margin-top:16vmin;
@@ -185,4 +185,72 @@ h4{
                 width: 60%;
              margin-top: 16vmin;
         }
-}
+} */ */ */
+
+/* .upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .file-input {
+    display: none;
+  }
+  
+  .upload-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .file-info {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .file-info p {
+    margin-bottom: 10px;
+  }
+  
+  .file-info button {
+    background-color: #28a745;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+   */
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .upload-button {
+    margin-top: 20px;
+  }
+  
+  .upload-button input[type="file"] {
+    display: none;
+  }
+  
+  .upload-button button {
+    background-color: #f5f8fb;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-button button:hover {
+    background-color: #f2f5f7;
+  }
+  
