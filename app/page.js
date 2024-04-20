@@ -40,6 +40,9 @@ function Page() {
         <div className="gradient-10" />
       </div>
       <World />
+
+      <div className="gradient-04" />
+        <Feedback />
       <div className="relative">
         <Insights />
 {/* 
@@ -62,8 +65,6 @@ function Page() {
     </Router>
         </div> */}
 
-        <div className="gradient-04" />
-        <Feedback />
       </div>
       <Footer />
     </div>

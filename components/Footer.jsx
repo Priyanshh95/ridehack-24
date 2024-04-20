@@ -61,12 +61,12 @@ function Footer() {
           
             <div className="font-bold text-[100%]  flex flex-row">
               <IoLocationSharp className="text-3xl text-white" />
-              <div className='text-white'>
-                < p> 
+              <div className='text-white' style={{textAlign: 'left'}}>
+                <p className='text-white text-box'> 
                 SmartMed
                 </p>
-                <p>JIIT-62</p>
-                <p>Noida</p>
+                <p className='text-white text-box'>JIIT-62</p>
+                <p className='text-white'>Noida</p>
                 
               </div>
             </div>

@@ -62,35 +62,35 @@ export const newFeatures2 = [
 ];
 
 export const insights = [
-  {
-    imgUrl: '/image32.jpeg',
-    title: ' Question 1 ',
-    subtitle: 'Answer',
-  },
-  {
-    imgUrl: '/image30.jpeg',
-    title: ' Question 2',
-    subtitle:
-      '  Answer ',
-  },
-  {
-    imgUrl: '/image36.jpeg',
-    title: ' Question 3',
-    subtitle:
-      ' Answer ',
-  },
-  {
-    imgUrl: '/image34.jpeg',
-    title: '   Question 4',
-    subtitle:
-      ' Answer ',
-  },
-  {
-    imgUrl: '/image31.jpeg',
-    title: '   I have more questions?',
-    subtitle:
-      '    Reach us directlly through mail we would be happy to help you.',
-  },
+  // {
+  //   imgUrl: '/image32.jpeg',
+  //   title: ' Question 1 ',
+  //   subtitle: 'Answer',
+  // },
+  // {
+  //   imgUrl: '/image30.jpeg',
+  //   title: ' Question 2',
+  //   subtitle:
+  //     '  Answer ',
+  // },
+  // {
+  //   imgUrl: '/image36.jpeg',
+  //   title: ' Question 3',
+  //   subtitle:
+  //     ' Answer ',
+  // },
+  // {
+  //   imgUrl: '/image34.jpeg',
+  //   title: '   Question 4',
+  //   subtitle:
+  //     ' Answer ',
+  // },
+  // {
+  //   imgUrl: '/image31.jpeg',
+  //   title: '   I have more questions?',
+  //   subtitle:
+  //     '    Reach us directlly through mail we would be happy to help you.',
+  // },
 ];
 
 export const socials = [

@@ -28,11 +28,12 @@ function Page() {
         <div className="glassmorphism" />
         <WhatsNew />
       </div>
+      <div className="glassmorphism" />
+        <Feedback />
       <World />
       <div className="glassmorphism">
         <Insights />
-        <div className="glassmorphism" />
-        <Feedback />
+        
       </div>
       <Footer />
     </div>

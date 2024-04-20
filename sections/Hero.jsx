@@ -53,7 +53,7 @@ function Hero() {
         > */}
           {/* <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[100px] z-[0] -top-[30px]" /> */}
           <img
-            src="/care.gif"
+            src="/SmartMed.gif"
             alt="cover"
             className="w-full"
             //className="w-full sm:h-[1000px] h-[1000px] lg:h-[500px] object-cover rounded-tl-[140px] z-10 relative"
